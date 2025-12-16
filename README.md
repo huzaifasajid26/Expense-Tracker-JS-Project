@@ -2,9 +2,7 @@
 
 A simple web app to **track your daily expenses** using HTML, CSS, and JavaScript.
 
-You can **add expenses**, **see them listed**, and **watch your total spending change in real time**. All data is stored in your browser using **localStorage**, so it stays even after refresh.
-
----
+You can **add expenses**, **see them listed**, and **watch your total spending change in real time**.
 
 ## 🚀 Features
 
@@ -13,3 +11,4 @@ You can **add expenses**, **see them listed**, and **watch your total spending c
 - Remove expenses  
 - Shows total balance, income, and expense changes  
 - Saves data in browser (localStorage)
+
