@@ -131,8 +131,3 @@ const addExpense = (e) => {
 
 addBtn.addEventListener("click", addExpense);
 
-// Expense List Section
-
-// Total Expense Section
-
-// Category Summary Section
