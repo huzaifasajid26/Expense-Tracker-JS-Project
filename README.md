@@ -9,6 +9,5 @@ You can **add expenses**, **see them listed**, and **watch your total spending c
 - Add a new expense with a name and amount  
 - See a list of all expenses  
 - Remove expenses  
-- Shows total balance, income, and expense changes  
-- Saves data in browser (localStorage)
+- Shows total balance, income, and expense changes
 
